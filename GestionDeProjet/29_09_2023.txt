@@ -1,0 +1,48 @@
+planification et controle des differentes taches et ressources 
+pour atteindre les objectifs definis,
+souvent dans le cas de la creation ou de l'amelioration d'un SI
+
+Une entreprise c'est;
+Une personne morale qui produit de la valeur grace a des compétences.
+Son but est de faire des projet rentable dans les meilleurs conditions possibles.
+
+exercice tarte aux pommes
+liste de livrable et de sous livrable
+tarte aux pommes
+oeuf mimosa 
+hachis parmentier 
+citronade
+
+principes generaux du dévelopemment de projet IT
+
+loie de hofstadter:
+    cela prend toujours plus de temps que ce que vous pensez meme si vous prennez 
+    en compte la loi de hofstadter
+loie de mmurphy:
+    tout ce qui peut mal se passer va mal se passer
+loie de brooks:
+    Ajouter de la main d'oeuvre a un projet IT en retard augmentera le retard
+
+Grace au délais en IT on peut en deduire les couts le TauxJournalierMoyen
+
+Comment definir un livrable:
+
+    definir un objectifs :
+        Specify objectis clair et precis
+        Mesurable KeyProductInformation
+        Achiveable l'objectif doit etre realisable
+        Relevant l'objectif doit être pertinent
+        TimeBound L'objectif doit avoir un objetif temps definir
+        Evaluated les objectis doivent être évalué progressivement
+        Reviewed les objectis doivent être revu régulièrement
+
+Le PDCA est un cycle iteratif pour le controle et l'amelioration continue 
+des processus et des produits 
+    Planned / planifier faire un constat definir des objectis identifierle plan d'action
+    Due / Faire executer le plan préparer dans la planification 
+    Check / verifier evaluer les resultats analyser les données identifier les deviations
+    Act / Agir ajuster le process standardiser le process 
+réiterer 
+
+
+
