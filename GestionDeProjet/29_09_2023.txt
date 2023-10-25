@@ -28,7 +28,7 @@ Grace au délais en IT on peut en deduire les couts le TauxJournalierMoyen
 Comment definir un livrable:
 
     definir un objectifs :
-        Specify objectis clair et precis
+        Specify objectif clair et precis
         Mesurable KeyProductInformation
         Achiveable l'objectif doit etre realisable
         Relevant l'objectif doit être pertinent
@@ -44,5 +44,4 @@ des processus et des produits
     Act / Agir ajuster le process standardiser le process 
 réiterer 
 
-
-
+Le backlog contient toute les informations du projet 
